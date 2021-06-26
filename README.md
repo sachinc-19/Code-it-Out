@@ -15,6 +15,11 @@
 - **[B](CPP/B_Max_and_Mex)** - Max and Mex - **Accepted**
 - **[C](CPP/C_Diamond_Miner.cpp)** - Diamond Miner - **Accepted**
 
+### Codeforces Round #728 (Div. 2) - `3/6`
+- **[A](CPP/A_Pretty_Permutations.cpp)** - Pretty Permutations - **Accepted**
+- **[B](CPP/B_Pleasant_Pairs.cpp)** - Pleasant Pairs - **Accepted**
+- **[C](CPP/C_Great_Graphs.cpp)** - Great Graphs - **Accepted**
+
 <br/>
 
 Problems solved: **2**
