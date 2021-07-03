@@ -19,6 +19,11 @@
 - **[A](CPP/A_Pretty_Permutations.cpp)** - Pretty Permutations - **Accepted**
 - **[B](CPP/B_Pleasant_Pairs.cpp)** - Pleasant Pairs - **Accepted**
 - **[C](CPP/C_Great_Graphs.cpp)** - Great Graphs - **Accepted**
+- 
+### Codeforces Round #728 (Div. 2) - `3/6`
+- **[A](CPP/A_Odd_Set.cpp)** - Odd Set - **Accepted**
+- **[B](CPP/B_Plus_and_Multiply.cpp)** - Plus and Multiply - **Accepted**
+- **[C](CPP/C_Strange_Function.cpp)** - Strange Function - **Accepted**
 
 <br/>
 
